@@ -29,9 +29,14 @@ cordova platform ls
 
 ## Referensi 
 
+```
 Penjelasan Lengkap  [Apache Cordova](https://en.wikipedia.org/wiki/Apache_Cordova)
+```
 
 ## Contoh Hasil Framework cordova pembuatan aplikasi android
 ![PreviewGambar](https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/samples/media/cordova-samples/startrack.png)
+![PreviewGambar](https://user-images.githubusercontent.com/2615468/42951497-316de29a-8b6e-11e8-8ed8-a0a3a93f6f4f.png)
+
+
 
 
