@@ -27,7 +27,7 @@ cordova platform add android
 cordova platform ls
 ```
 
-## Referensi Latihan
+## Referensi 
 
 Penjelasan Lengkap  [Apache Cordova](https://en.wikipedia.org/wiki/Apache_Cordova)
 
